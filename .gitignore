@@ -1,0 +1,10 @@
+# Build
+env/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# MacOS
+.DS_Store
